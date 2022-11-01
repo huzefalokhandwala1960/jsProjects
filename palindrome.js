@@ -1,4 +1,5 @@
 function palindrome(str) {
+    console.log("burhan");
     return true;
   }
   
